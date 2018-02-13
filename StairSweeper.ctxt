@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StairSweeper
+comment0.text=\n\ A\ StairSweeper\ knows\ how\ to\ climb\ one\ stair.\ This\ is\ a\ sample\n\ illustration\ of\ one\ way\ to\ use\ this\ system.\ Note\ that\ the\ Greenfoot\ Run\ command/button\n\ is\ not\ useful\ with\ this\ class.\ Use\ the\ Act\ command/button.\n\ \n\ @author\ Joseph\ Bergin\n\ @version\ 1.0\ (Greenfoot)\ January\ 2010\n
+comment1.params=
+comment1.target=StairSweeper()
+comment1.text=Create\ a\ stair\ sweeper\ at\ the\ base\ of\ the\ steps
+comment2.params=
+comment2.target=java.lang.String\ usage()
+comment2.text=Print\ a\ short\ usage\ note\ to\ standard\ output.
+comment3.params=
+comment3.target=void\ turnRight()
+comment3.text=Turn\ 90\ degrees\ to\ the\ right
+comment4.params=
+comment4.target=void\ climbStair()
+comment4.text=Climb\ one\ stair
+comment5.params=
+comment5.target=void\ populate()
+comment5.text=\n\ Convenience\ method\ to\ get\ an\ appropriate\ world\ for\ the\ StairSweeper.\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\n\ Act\ -\ Climb\ exactly\ three\ stairs,\ picking\ a\ beeper\ from\ each.\ The\ stairworld.kwld\n\ file\ contains\ a\ suitable\ world.\n
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ usage()
+comment0.text=Print\ a\ short\ usage\ note\ to\ standard\ output.
+comment1.params=something
+comment1.target=void\ setImage(greenfoot.GreenfootImage)
+comment1.text=This\ effectively\ disables\ changing\ the\ image\ of\ a\ Prop
+comment2.params=something
+comment2.target=void\ setImage(java.lang.String)
+comment2.text=do\ nothing
+comment3.params=value
+comment3.target=void\ setRotation(int)
+comment3.text=do\ nothing
+numComments=4

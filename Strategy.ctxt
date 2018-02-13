@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Strategy
+comment0.text=\n\ An\ interface\ to\ define\ Strategy\ objects\ for\ the\ Strategy\ design\ pattern.\n\ \n\ @author\ Joseph\ Bergin\n\ @version\ 1.0,\ January\ 2010\n
+comment1.params=which
+comment1.target=void\ doIt(UrRobot)
+comment1.text=\n\ A\ robot\ will\ carry\ out\ the\ current\ strategy\n\ \n\ @param\ which\ the\ robot\ to\ perform\ the\ strategy\n
+numComments=2

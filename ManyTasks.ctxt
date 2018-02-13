@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ManyTasks
+comment0.text=\n\ This\ is\ a\ collection\ of\ robot\ tasks\ as\ static\ methods.\ It\ illustrates\ one\ way\ to\ use\n\ this\ system\ and\ was\ used\ to\ test\ it\ during\ creation.\n\ \n\ @author\ Joseph\ Bergin\n\ @version\ 1.0,\ January\ 2010\n
+comment1.params=
+comment1.target=ManyTasks()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ManyTasks\n
+comment2.params=
+comment2.target=void\ getBeeper()
+comment2.text=The\ beginning\ of\ a\ solution\ to\ Exercise\ 2-1\ of\ Karel\ J\ Robot
+comment3.params=
+comment3.target=void\ newspaperRetrievalTask()
+comment3.text=\n\ An\ example\ of\ a\ task\ for\ a\ robot\ using\ Chapter\ 2\ ideas.\ Start\ of\ a\ solution\ to\n\ Problem\ 2-5\n\ \n
+comment4.params=
+comment4.target=void\ perambulateWorld()
+comment4.text=\n\ Walk\ around\ the\ perimeter\ of\ the\ world\ and\ pick\ a\ single\ beeper\ from\ any\ corner\ on\n\ which\ it\ finds\ any.\ (Chapter\ 6\ ideas\ here)\n
+numComments=5

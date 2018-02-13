@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Direction
+comment0.text=\n\ This\ is\ a\ convenience\ interface\ so\ that\ you\ can\ write\ Direction.NORTH,\ etc\ \n\ in\ your\ programs.\ In\ robot\ classes\ you\ can\ write\ just\ EAST,\ NORTH,\ etc.\ \n\n\ @author\ (Joseph\ Bergin)\ \n\ @version\ (January\ 10,\ 2017)\n
+numComments=1

@@ -1,0 +1,13 @@
+KarelWorld
+beepers 2 3 1
+beepers 3 4 1
+beepers 4 5 1
+eastwestwalls 1 3 3
+eastwestwalls 2 4 4
+eastwestwalls 3 5 5
+northsouthwalls 2 1 1
+northsouthwalls 3 2 2
+northsouthwalls 4 3 3
+northsouthwalls 5 3 3
+northsouthwalls 5 2 2
+northsouthwalls 5 1 1

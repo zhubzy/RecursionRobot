@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Philosopher
+comment0.text=\n\ A\ class\ of\ objects\ that\ can\ perform\ the\ "Dining\ Philosophers"\ simulation.\n\ \n\ @author\ Joseph\ Bergin\n\ @version\ 1.0\ (Greenfoot)\ January\ 2010\n
+comment1.params=direction
+comment1.target=Philosopher(Direction)
+comment1.text=\n\ Create\ a\ philosopher\ to\ be\ placed\ into\ the\ world\ and\ prepare\ it\ for\ threaded\n\ execution\ using\ its\ "run"\ method.\n
+comment2.params=street\ avenue\ direction\ beepers
+comment2.target=Philosopher(int,\ int,\ Direction,\ int)
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=Add\ four\ philosophers\ to\ the\ world\ and\ the\ "forks"\ they\ will\ use.
+comment4.params=
+comment4.target=void\ run()
+comment4.text=\n\ This\ is\ the\ method\ used\ by\ the\ thread\ system.\ It\ will\ be\ invoked\ automatically.\n
+comment5.params=time
+comment5.target=void\ think(int)
+comment5.text=Philosopher\ backs\ away\ from\ the\ table\ to\ think.
+comment6.params=time
+comment6.target=void\ eat(int)
+comment6.text=Philosopher\ moves\ in\ to\ the\ table\ to\ eat.
+comment7.params=
+comment7.target=void\ getForks()
+comment7.text=\n\ Philosopher\ picks\ up\ a\ fork\ from\ its\ left\ and\ one\ from\ its\ right,\ but\ waits\ until\n\ they\ are\ available.\n
+comment8.params=
+comment8.target=void\ putForks()
+comment8.text=\n\ Philosopher\ puts\ down\ both\ of\ its\ forks,\ one\ to\ the\ left\ and\ one\ to\ the\ right.\n
+numComments=9

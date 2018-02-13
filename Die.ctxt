@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=int\ mostRecent()
+comment0.text=Roll\ the\ most\ recently\ created\ die\ and\ return\ the\ result\n@return\ the\ result\ of\ rolling\ the\ most\ recently\ created\ die,\ or\ 0\ if\ none\ have\ been\ created\n\n
+comment1.params=faces
+comment1.target=Die(int)
+comment1.text=Create\ a\ die\ with\ any\ number\ of\ faces.\n@param\ faces\ the\ number\ of\ faces\ on\ the\ die\n\n
+comment2.target=int\ roll()
+comment2.text=get\ a\ random\ number\ in\ the\ range\ [1..faces]\ inclusive.\ \n\n\n
+comment3.target=int\ faces()
+comment3.text=Learn\ the\ number\ of\ faces\ on\ this\ die.\ \n\n\n
+numComments=4

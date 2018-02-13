@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QueenPlacer
+comment0.text=\ Copyright\ 2010,\ Joseph\ Bergin\n\ Creative\ Commons\ Attribution-Noncommercial\ 3.0\ United\ States\ License\n
+comment1.params=
+comment1.target=QueenPlacer()
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=Read\ an\ 8\ by\ 8\ "chessboard"\ and\ initialize\ a\ QueenPlacer\ at\ the\ origin
+numComments=3

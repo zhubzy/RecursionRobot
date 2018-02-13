@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Beeper()
+comment1.target=int\ howMany()
+comment1.text=Learn\ how\ many\ beepers\ are\ on\ this\ corner\ including\ this\ beeper.\nThe\ number\ may\ be\ infinite\ (-1).\n\n
+numComments=2
