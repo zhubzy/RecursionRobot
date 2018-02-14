@@ -17,7 +17,7 @@ public class LostMineMiner extends Robot
     
     public void act() 
     {
-           
+
 
         step1();
         
@@ -178,12 +178,13 @@ public class LostMineMiner extends Robot
             
             turnToEast();
             
-                for(int i = 0; i < count; i ++){
+            while(frontIsClear())
+            move();
+            goHome();
             
-                move();
+            step1();
             
-            }
-            turnOff();
+
         
         
         }
@@ -197,6 +198,33 @@ public class LostMineMiner extends Robot
     
     
     }
+    
+    public void goHome(){
+        
+        
+        while(checkIfHome() == false){
+        turnToSouth();
+        while(frontIsClear())
+        move();
+        turnToWest();
+        while(frontIsClear())
+        move();
+    }
+    
+    
+        
+    }
+    
+    public boolean checkIfHome(){
+                turnToSouth();
+                boolean southClear = frontIsClear();
+                turnToWest();
+                boolean northClear = frontIsClear();    
+                
+                return !southClear && !northClear;
+    }
+    
+
     
     
     public void turnToEast(){
